@@ -18,23 +18,24 @@ Aplicativo Android para controle de receitas e despesas pessoais.
 
 ## 📸 Screenshots
 
-*(Adicione prints das telas aqui)*
+| 🏠 Tela Principal | ➕ Tela de Adicionar Transação |
+|----------------------------|-------------------------------|
+| <img src="imagens/tela_inicial.png" width="300"/> | <img src="imagens/tela_adicionar.png" width="300"/> |
 
 ## 📂 Organização do Projeto
 
 ```bash
-📁 app
- ┣ 📁 java
- ┃ ┗ 📁 com.example.moneycontrol
- ┃   ┣ 📄 MainActivity.java
- ┃   ┣ 📄 AddTransacoes.java
- ┃   ┣ 📄 Transacao.java
- ┃   ┣ 📄 AppDatabase.java
- ┃   ┗ 📄 TransacaoDao.java
- ┗ 📁 res
-   ┣ 📁 layout
-   ┃  ┣ 📄 activity_main.xml
-   ┃  ┣ 📄 activity_splash_money_control.xml
-   ┃  ┗ 📄 activity_add_transacoes.xml
-   ┃ 
-   ┗ 📁 drawable
+📦 app
+ ┗ 📂 src
+    ┗ 📂 main
+       ┣ 📂 java/com/example/moneycontrol
+       ┃  ┣ 📄 MainActivity.java
+       ┃  ┣ 📄 AddTransacoes.java
+       ┃  ┣ 📄 AppDatabase.java
+       ┃  ┣ 📄 Transacao.java
+       ┃  ┗ 📄 TransacaoDao.java
+       ┗ 📂 res
+          ┗ 📂 layout
+             ┣ 📄 activity_main.xml
+             ┣ 📄 activity_splash_moneycontrol.xml
+             ┗ 📄 activity_add_transacoes.xml
