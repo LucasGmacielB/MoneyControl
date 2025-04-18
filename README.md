@@ -22,6 +22,11 @@ Aplicativo Android para controle de receitas e despesas pessoais.
 |----------------------------|-------------------------------|
 | <img src="imagens/tela_inicial.png" width="300"/> | <img src="imagens/tela_adicionar.png" width="300"/> |
 
+# APK do app
+https://drive.google.com/file/d/1RH6uIMRFcG_SmVjnc4B6b01HPvCHUP4v/view?usp=drive_link
+
+
+
 ## 📂 Organização do Projeto
 
 ```bash
